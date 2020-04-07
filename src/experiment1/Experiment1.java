@@ -1,4 +1,4 @@
-package experiment;
+package experiment1;
 
 public class Experiment1 {
 	final static int denomination[] = {50, 20, 10, 5, 1};
